@@ -8,6 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&pause=1000&color=4F46E5&center=true&vCenter=true&width=550&lines=Technical+Business+Consultant;Full-Stack+Developer;Cloud+%26+System+Architecture+Specialist;Building+Scalable+Digital+Products" alt="Typing SVG" />
 </h3>
 
+
 <!-- Profile Banner -->
 <p align="center">
   <img src="https://github.com/DenverCoder1/github-readme-streak-stats/raw/main/src/images/fire.gif" width="30"/> 
