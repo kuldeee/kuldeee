@@ -21,7 +21,7 @@
 ## 🚀 About Me  
 
 - 🔭 **Currently working on:**  
-  Building scalable **web & mobile apps**, optimizing **system architecture**, and delivering reliable long-term tech solutions.
+  Building scalable **web & mobile apps**, optimizing **system architecture** and delivering reliable long-term tech solutions.
 
 - 🌱 **Learning:**  
   Advanced **cloud architecture**, **system design patterns**, and **performance optimization** for high-performance digital products.
@@ -33,13 +33,13 @@
   Founders, product owners, and tech teams needing **technical strategy, development, or automation support**.
 
 - 💬 **Ask me about:**  
-  Web/mobile dev, backend architecture, APIs, cloud systems, team building, and scaling tech.
+  Web/mobile dev, backend architecture, APIs, cloud systems, team building and scaling tech.
 
 - 📫 **Reach me at:**  
   **➡️ kuldeepjethava.kj@gmail.com**
 
 - ⚡ **Fun Fact:**  
-  I can debug faster than I can make coffee ☕⚡ — and I love simplifying complex systems into scalable, elegant solutions.
+  I can debug faster than I can make coffee ☕⚡ and I love simplifying complex systems into scalable, elegant solutions.
 
 ---
 
