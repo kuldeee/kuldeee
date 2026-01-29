@@ -3,8 +3,6 @@
   Hi 👋, I'm <span style="color:#4f46e5;">Kuldeep Jethava</span>
 </h1>
 
-
-
 <!-- Typing Animation -->
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&pause=1000&color=4F46E5&center=true&vCenter=true&width=550&lines=Technical+Business+Consultant;Full-Stack+Developer;Cloud+%26+System+Architecture+Specialist;Building+Scalable+Digital+Products" alt="Typing SVG" />
